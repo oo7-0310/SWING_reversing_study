@@ -1,3 +1,4 @@
+#출처 리버싱 핵심 원리(이승원)
 #include "windows.h"
 #include "tlhelp32.h"
 #include "tchar.h"
